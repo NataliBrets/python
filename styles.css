@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(132, 119, 112);
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+.info-text {
+    font-size: 30px;
+    padding: 15px;
+}
+.info {
+    display: flex;
+}
+.info p {
+    color: rgb(200, 190, 179);
+    margin: 0;
+    letter-spacing: 3px;
+    background-color: rgb(150, 138, 129);
+    margin: 15px;
+    border-radius: 10px;
+}
+.plus {
+    display: flex;
+}
+.plus-text {
+    font-size: 18px;
+    padding: 5px;
+}
+.plmi {
+    width: 180px;
+    border-radius: 50%;
+}
+h1 {
+    color: rgb(82, 97, 78);
+}
+h2 {
+    color: rgb(140, 156, 137);
+}
+h3 {
+    background-color: rgb(163, 193, 160);
+}
+h4 {
+    color: rgb(207, 223, 206);
+    text-align: center;
+}
+.python {
+    width: 120px;
+    border-radius: 50%;
+    padding: 5px;
+    box-shadow: 14px 4px 24px rgba(0, 0, 0, 0.15);
+}
+
+hr {
+    background-color: rgb(202, 243, 221);
+}
+.container {
+    width: 90%;
+    margin: auto;
+}
+.link {
+    margin: 10px;
+    background-color: rgb(182, 174, 161);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contact {
+    display: block;
+    font-size: 20px;
+    width: 60%;
+    box-sizing: border-box;
+    border: none;
+}

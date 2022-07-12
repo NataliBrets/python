@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(132, 119, 112);
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+h1 {
+    color: rgb(137, 216, 210); 
+    text-align: center;
+}
+hr {
+    background-color: rgb(102, 133, 127);
+    padding: 4px;
+}
+.container1 {
+    width: 90%;
+    margin: auto;
+}
+.print {
+    width: 180px;
+    border-radius: 30%;
+    box-shadow: 14px 4px 24px rgba(0, 0, 0, 0.15);
+}
+.print-jpeg {
+    display: flex;
+}
+.print-f{
+    font-size: 18px;
+    padding-top: 30px;
+    padding: 10px;
+}
+.func {
+    width: 300px;
+    border-radius: 15%;
+    box-shadow: 14px 4px 24px rgba(0, 0, 0, 0.15);
+}
